@@ -24,7 +24,7 @@ public class SwitchDaysInMonthPrinter {
                 System.out.println(28);
                 break;
             default:
-                System.out.println("Invalid number of months");
+                System.out.println("wrong number!");
                 break;
         }
     }
